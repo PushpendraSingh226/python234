@@ -1,5 +1,5 @@
-a = 190
-b = 98
+a = 192
+b = 96
 if b > a:
   print("b is greater than a")
 elif a == b:
