@@ -1,5 +1,5 @@
-x = 10
-y = 12
+x = 12
+y = 14
 
 # Output: x > y is False
 print('x > y is',x>y)
