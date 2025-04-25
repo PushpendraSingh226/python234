@@ -1,6 +1,6 @@
 #ELIF Example
-a = 33
-b = 33
+a = 46
+b = 40
 if b > a:
   print("b is greater than a")
 elif a == b:
